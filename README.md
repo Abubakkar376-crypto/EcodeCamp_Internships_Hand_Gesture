@@ -1,0 +1,2 @@
+# EcodeCamp_Internships_Hand_Gesture
+Hand Gesture Recognition System
